@@ -1,4 +1,4 @@
-# inf1010
+# INF1010
 
 A collection of exercises from INF1010 – Object oriented programming.
 
